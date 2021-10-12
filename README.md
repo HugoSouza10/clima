@@ -19,7 +19,7 @@ são brasileiras.
 -   JS
 
 **Link do projeto:**  
-   https://hugosouza10.github.io/projetoPizza/
+   https://hugosouza10.github.io/clima/
    
 
 🎯 **Objetivo:**  Bem, o objetivo do projeto é criar um sisteminha bem bacana na qual faz 
