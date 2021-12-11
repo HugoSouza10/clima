@@ -43,4 +43,4 @@ Este projeto não tem nenhuma biblioteca, foi tudo criado com a linguagem pura m
 
 **Status do projeto:**
 
-Projeto 100% concluído inclusive está hospedado no git page para teste. https://hugosouza10.github.io/pizzaBest/
+Projeto 100% concluído inclusive está hospedado no git page para teste. 
